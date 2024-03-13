@@ -1,6 +1,8 @@
 # lumi_oss
 oss개발 2024-1
 
+# 안녕하세요. 동아대학교 컴퓨터 공학과의 OSS개발과목의 개발능력과 피드백을 통해 만들어진 
+ # 프로젝트입니다 
 markdown
 ## heading 2
 ### heading 3
